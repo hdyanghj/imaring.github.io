@@ -1,7 +1,9 @@
 
-> imaring - 作为一名码农，随着平时工作的需要，慢慢收集了国内外很多优秀网站，这其中包括在线工具、在线运行、免费接口、在线资源、在线学习、技术论坛、技术博客等等，满足一般程序员日常需求。www.imaring.com
+> imaring - 作为一名码农，随着平时工作的需要，慢慢收集了国内外很多优秀网站，这其中包括在线工具、在线运行、免费接口、在线资源、在线学习、技术论坛、技术博客等等，满足一般程序员日常需求。
 
-# 常用推荐
+# 码灵程序员导航 ：[nav.imaring.com](https://nav.imaring.com)
+
+## 常用推荐
 
 [GitHub](https://github.com/?source=imaring.com)
 
@@ -51,7 +53,7 @@
 
 > 奶牛快传 是一款非常不错的临时网盘工具,可以用来分享与接收临时文件。
 
-# 社区资讯
+## 社区资讯
 
 [知乎精华](https://www.zhihu.com/topic/19554298/top-answers?source=imaring.com)
 
@@ -101,7 +103,7 @@
 
 > 简书是一个优质的创作社区,在这里,你可以任性地创作,一篇短文、一张照片、一首诗、一幅画……,每个人都是生活中的艺术家,有着无穷的创造力。
 
-# 个人博客
+## 个人博客
 
 [廖雪峰](https://www.liaoxuefeng.com/?source=imaring.com)
 
@@ -119,7 +121,7 @@
 
 > 清华大学计算机系2010级本科生，自由意志主义者。《Node.js开发指南》作者，就职于Facebook。
 
-# 团队博客
+## 团队博客
 
 
 [AlloyTeam](http://www.alloyteam.com/?source=imaring.com)
@@ -154,7 +156,7 @@
 
 > 全球最大的职业社交网站，LinkedIn工程师团队。
 
-# 文本编辑器
+## 文本编辑器
 
 [Sublime Text](http://www.sublimetext.com/?source=imaring.com)
 
@@ -172,7 +174,7 @@
 
 > 用户界面简洁直观，简单易用，上手很快，由全球最大同性交友平台github推出，完全免费开源，支持多平台，PS：还有各种意想不到的酷炫功能，自己去探索吧。
 
-# 集成环境IDE
+## 集成环境IDE
 
 [Visual Studio](https://www.visualstudio.com/?source=imaring.com)
 
@@ -194,7 +196,7 @@
 
 > HBuilderX是一款功能强大的编辑器软件。
 
-# 团队协作
+## 团队协作
 
 [GitHub](https://github.com/?source=imaring.com)
 
@@ -224,7 +226,7 @@
 
 > 蓝湖是一款产品文档和设计图的共享平台,帮助互联网团队更好地管理文档和设计图。
 
-# 调试工具
+## 调试工具
 
 [Chrome](https://www.google.cn/intl/zh-CN/chrome/?source=imaring.com)
 
@@ -238,7 +240,7 @@
 
 > Postman是一款功能强大的网页调试与发送网页HTTP请求的工具。
 
-# 构建工具
+## 构建工具
 
 [Webpack](https://webpack.js.org/?source=imaring.com)
 
@@ -256,7 +258,7 @@
 
 > NPM（node package manager）是 Node.js 世界的包管理器。NPM 可以让 JavaScript 开发者在共享代码、复用代码以及更新共享的代码上更加方便。
 
-# 在线课程
+## 在线课程
 
 [中国大学MOOC](https://www.icourse163.org/?source=imaring.com)
 
@@ -282,7 +284,7 @@
 
 > Coursera是大型公开在线课程项目，由美国斯坦福大学两名计算机科学教授创办，也就是国外版的MOOC。
 
-# 在线手册
+## 在线手册
 
 [w3cschool](https://www.w3school.com.cn/?source=imaring.com)
 
@@ -296,7 +298,7 @@
 
 > MDN 的一切（文档和网站本身）都是由一个开放的开发者社区创造。
 
-# HTML
+## HTML
 
 [HTML 教程](https://www.w3school.com.cn/html/index.asp?source=imaring.com)
 
@@ -306,7 +308,7 @@
 
 > HTML5 是下一代的 HTML,本教程向您讲解 HTML5 中的新特性。
 
-# CSS
+## CSS
 
 [CSS 教程](https://www.w3school.com.cn/css/index.asp?source=imaring.com)
 
@@ -320,7 +322,7 @@
 
 > animate.css是是一款很酷，有趣且跨浏览器的动画。
 
-# Javascript
+## Javascript
 
 [JavaScript 教程](https://www.w3school.com.cn/b.asp?source=imaring.com)
 
@@ -338,7 +340,7 @@
 
 > 简单的说 Node.js 就是运行在服务端的 JavaScript。
 
-# 框架类库
+## 框架类库
 
 [Bootstrap](https://www.bootcss.com/?source=imaring.com)
 
@@ -376,7 +378,7 @@
 
 > Taro 是凹凸实验室开发的多端统一开发解决方案。
 
-# 图形动效
+## 图形动效
 
 [Echarts](https://echarts.baidu.com/?source=imaring.com)
 
@@ -386,7 +388,7 @@
 
 > Highcharts 是一个用纯JavaScript编写的一个图表库， 能够很简单便捷的在web网站或是web应用程序添加有交互性的图表。
 
-# 后端开发
+## 后端开发
 
 [Python](https://www.python.org/?source=imaring.com)
 
@@ -396,15 +398,15 @@
 
 > Java是一门面向对象编程语言,不仅吸收了C++语言的各种优点,还摒弃了C++里难以理解的多继承。
 
-![PHP](https://file.imaring.com/images/logo/php.jpg)[PHP](https://www.php.net/?source=imaring.com)
+[PHP](https://www.php.net/?source=imaring.com)
 
 > PHP即“超文本预处理器”，是一种通用开源脚本语言。
 
-![Golang](https://file.imaring.com/images/logo/golang.jpg)[Golang](https://golang.google.cn/?source=imaring.com)
+[Golang](https://golang.google.cn/?source=imaring.com)
 
 > Google的Robert Griesemer，Rob Pike及Ken Thompson开发的一种静态强类型、编译型语言。
 
-# 开源镜像
+## 开源镜像
 
 [网易](http://mirrors.163.com/?source=imaring.com)
 > 网易开源镜像站即一个放置开源系统镜像文件的站点.免费提供镜像文件下载。
