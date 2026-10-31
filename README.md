@@ -244,6 +244,10 @@
 
 > Postman是一款功能强大的网页调试与发送网页HTTP请求的工具。
 
+[agent-qa](https://vostride.com)
+
+> vostride 的网页、Android 与 iOS AI 测试工具，提供 memidex 持久记忆、经验证的自我改进、CLI/MCP 与可复查的运行证据；模型费用另计。
+
 ## 🚩构建工具
 
 [Webpack](https://webpack.js.org/?source=imaring.com)
